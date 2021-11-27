@@ -1,0 +1,4 @@
+NAME: MUKISA ADRIAN
+REG NO. 2019/A/KCS/0012/G/F
+NO. TWO
+create database `payment` and then import the sql table payroll.sql
